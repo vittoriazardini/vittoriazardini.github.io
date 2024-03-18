@@ -1,13 +1,14 @@
 h1 {
-  color: #009900
-  text-shadow: 2px 2px 5px green
+  color: #009900;
+  text-shadow: 2px 2px 5px green;
   text-align: center;
+font-size: 20px;
   }
 
 h2 { 
-text-align: center
+text-align: center;
    }
 
 body  { 
-bacground: #80ff80
+bacground: #80ff80;
     }
