@@ -11,6 +11,10 @@ h2  {
   Color: black;
   property:value;
    }
+
+p2 { 
+  float: right;
+  }
  
 ul {
   list-style-type: none;
