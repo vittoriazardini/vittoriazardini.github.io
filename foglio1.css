@@ -48,7 +48,10 @@ li a:hover:not(.active) {
   background-color: #4dffa6;
 }
 
-
+storiafoto.jpg  { 
+  width: 460;
+  height: 345;
+  }
   
  footer {
   background-color: #ccffe6;
