@@ -51,6 +51,7 @@ li a:hover:not(.active) {
 storiafoto.jpg  { 
   width: 460;
   height: 345;
+  align: center;
   }
   
  footer {
