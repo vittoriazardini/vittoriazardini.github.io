@@ -107,7 +107,11 @@ footer {
   }
 }
   
- footer { 
-   background-color:#ccffe6;
-   }
+ footer {
+  background-color: #ccffe6;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
   
