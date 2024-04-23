@@ -31,3 +31,9 @@ li a:hover:not(.active) {
   background-color: #4dffa6;
 }
   
+ footer {
+  background-color: #ccffe6;
+  padding: 45px;
+  text-align: center;
+  color: black;
+}
