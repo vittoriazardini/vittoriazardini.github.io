@@ -73,11 +73,9 @@ storiafoto4.jpg  {
   color: black;
 }
 
-.mycontainer {
-  display: flex;
-}
-.mycontainer > div {
-  width:33%;
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 
