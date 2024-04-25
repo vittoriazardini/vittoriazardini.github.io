@@ -30,6 +30,10 @@ li a:hover:not(.active) {
 .active {
   background-color: #4dffa6;
 }
+
+h1 {
+  text-align:center;
+  }
   
  footer {
   background-color: #ccffe6;
