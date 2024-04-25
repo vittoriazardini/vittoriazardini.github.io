@@ -34,6 +34,14 @@ li a:hover:not(.active) {
 h1 {
   text-align:center;
   }
+
+h2 {
+text-align:center;
+}
+
+ol {
+  align:left;
+  }
   
  footer {
   background-color: #ccffe6;
