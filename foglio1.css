@@ -76,6 +76,11 @@ storiafoto4.jpg  {
 img {
   max-width: 100%;
   height: auto;
+
+  body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+  margin-right: 200px;
+}
 }
 
 
