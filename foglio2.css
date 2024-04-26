@@ -51,6 +51,6 @@ ol {
   text-align: center;
   color: black;
 }
-p.solid {
-  border-style: solid;
+p.outset {
+  border-style: outset;
 }
