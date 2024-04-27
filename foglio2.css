@@ -127,7 +127,7 @@ body {
     width: 100%;
   }
 }
-.browser > h2, p {
+.browser > h3, p {
   margin: 4px;
   font-size: 90%;
 }
