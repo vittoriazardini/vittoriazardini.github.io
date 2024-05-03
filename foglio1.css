@@ -139,3 +139,9 @@ body {
     border-color: teal;
     border-radius: 10px;
   }
+
+hr {
+  color:teal;
+  high:3px;
+  }
+  
