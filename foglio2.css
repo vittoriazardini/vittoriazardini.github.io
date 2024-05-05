@@ -135,6 +135,10 @@ body {
   font-size: 90%;
 }
 
+h3 {
+  margin-left:15px;
+  }
+
 h4 {
   display: none;
   background-color: white;
