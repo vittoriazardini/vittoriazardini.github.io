@@ -141,6 +141,6 @@ p {
   padding: 20px;
 }
 
-div:hover p {
+div:hover h3 {
   display: block;
 }
