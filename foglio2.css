@@ -134,3 +134,13 @@ body {
   margin: 4px;
   font-size: 90%;
 }
+
+p {
+  display: none;
+  background-color: white;
+  padding: 20px;
+}
+
+div:hover p {
+  display: block;
+}
