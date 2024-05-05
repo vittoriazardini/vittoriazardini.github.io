@@ -141,4 +141,6 @@ body {
     border-radius: 10px;
   }
 
-p.double {outline-style: double;}
+p.double {
+  outline-style: double;
+}
