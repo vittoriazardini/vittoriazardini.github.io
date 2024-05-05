@@ -147,7 +147,7 @@ h4 {
 
 div:hover h4 {
   display: block;
-  width: 100px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
   border: 1px solid black;
 }
