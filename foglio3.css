@@ -5,6 +5,12 @@
   font-style: normal;
 }
 
+
+p.outset {
+  border-style: outset;
+  box-shadow: 10px 10px 5px lightblue;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
